@@ -1,3 +1,8 @@
+body{
+    margin: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(12, 12, 200);
+}
 
 main {
     display: flex;
@@ -25,7 +30,7 @@ main {
     }
 
     h1{
-        color: aqua;
+        color: rgb(185, 241, 241);
         font-size: 48px;
         text-align: center;
 
@@ -39,8 +44,3 @@ main {
     }
 }
 
-body{
-    margin: 0;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(12, 12, 200);
-}
